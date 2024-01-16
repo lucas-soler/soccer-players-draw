@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1705431912722" clover="3.2.0">
+  <project timestamp="1705431912722" name="All files">
+    <metrics statements="34" coveredstatements="33" conditionals="1" coveredconditionals="0" methods="16" coveredmethods="16" elements="51" coveredelements="49" complexity="0" loc="34" ncloc="34" packages="1" files="1" classes="1"/>
+    <file name="player.ts" path="/Users/lucassoler/projects/soccer-players-sorter/src/player.ts">
+      <metrics statements="34" coveredstatements="33" conditionals="1" coveredconditionals="0" methods="16" coveredmethods="16"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="67" count="1" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="72" count="1" type="stmt"/>
+      <line num="76" count="1" type="stmt"/>
+      <line num="80" count="1" type="stmt"/>
+      <line num="84" count="1" type="stmt"/>
+      <line num="85" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="87" count="1" type="stmt"/>
+      <line num="91" count="1" type="stmt"/>
+      <line num="92" count="1" type="stmt"/>
+      <line num="96" count="1" type="stmt"/>
+      <line num="97" count="1" type="stmt"/>
+      <line num="101" count="1" type="stmt"/>
+      <line num="102" count="1" type="stmt"/>
+      <line num="106" count="1" type="stmt"/>
+      <line num="107" count="1" type="stmt"/>
+      <line num="111" count="4" type="stmt"/>
+      <line num="112" count="4" type="stmt"/>
+      <line num="114" count="4" type="stmt"/>
+      <line num="115" count="4" type="stmt"/>
+      <line num="119" count="15" type="stmt"/>
+      <line num="123" count="1" type="stmt"/>
+      <line num="127" count="1" type="stmt"/>
+      <line num="131" count="1" type="stmt"/>
+      <line num="135" count="1" type="stmt"/>
+      <line num="139" count="4" type="stmt"/>
+      <line num="140" count="56" type="stmt"/>
+      <line num="143" count="4" type="cond" truecount="0" falsecount="1"/>
+      <line num="144" count="0" type="stmt"/>
+      <line num="146" count="4" type="stmt"/>
+      <line num="150" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
