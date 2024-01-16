@@ -56,6 +56,7 @@ function App() {
           style={{
             textAlign: "left",
             listStyle: "none",
+            marginTop: "-0.5rem",
           }}
         >
           {originalPlayers.map((player) => {
@@ -73,7 +74,7 @@ function App() {
           })}
         </ul>
       </div>
-      <div style={{ display: "flex" }}>
+      <div style={{ display: "flex", marginTop: "-2rem" }}>
         <ul style={{ flex: 1 }}>
           <h3>Time A</h3>
           {teamA.map((player) => {
